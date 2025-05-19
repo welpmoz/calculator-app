@@ -1,0 +1,38 @@
+:root {
+  font-size: 62.5%;
+}
+
+.text-display {
+  font-family: "League Spartan", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 4rem;
+  letter-spacing: -0.07rem;
+}
+
+.text-caption-1 {
+  font-family: "League Spartan", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 1.2rem;
+  letter-spacing: 0rem;
+}
+
+.text-caption-2 {
+  font-family: "League Spartan", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 1.2rem;
+  letter-spacing: 0.1rem;
+}
+
+.text-button-1 {
+  font-family: "League Spartan", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 3.2rem;
+  letter-spacing: -0.05rem;
+}
+
+.text-button-2 {
+  font-family: "League Spartan", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 2rem;
+  letter-spacing: -0.03rem;
+}
