@@ -15,25 +15,27 @@ The designs were created to the following widths:
 
 #### Backgrounds
 
-- Very dark desaturated blue (main background): hsl(222, 26%, 31%)
-- Very dark desaturated blue (toggle background, keypad background): hsl(223, 31%, 20%)
-- Very dark desaturated blue (screen background): hsl(224, 36%, 15%)
+- Very dark desaturated blue (main background): #3a4663
+- Very dark desaturated blue (secondary background): #242d44
+- Very dark desaturated blue (terciary background): #181f33
 
 #### Keys
 
-- Desaturated dark blue (key background): hsl(225, 21%, 49%)
-- Desaturated dark blue (key shadow): hsl(224, 28%, 35%)
+- Desaturated dark blue (key secondary background): #647198
+- Desaturated dark blue (key secondary shadow): #404e72
 
-- Red (key background, toggle): hsl(6, 63%, 50%)
-- Dark red (key shadow): hsl(6, 70%, 34%)
+- Red (accent background): #d03f2f
+- Dark red (accent shadow): #93261a
 
-- Light grayish orange (key background): hsl(30, 25%, 89%)
-- Grayish orange (key shadow): hsl(28, 16%, 65%)
+- Light grayish orange (key secondary background): #eae3dc
+- Grayish orange (key secondary shadow): #b4a597
 
 #### Text
 
-- Very dark grayish blue: hsl(221, 14%, 31%)
-- White: hsl(0, 0%, 100%)
+- White (main text): #ffffff
+- Very dark grayish blue (key main text): #434a59
+- White (key secondary text): #ffffff
+- White (key accent text): #ffffff
 
 ### Theme 2
 
