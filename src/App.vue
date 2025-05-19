@@ -1,7 +1,9 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import Calculator from "./components/Calculator.vue";
+</script>
 
 <template>
-  <main>Calculator App</main>
+  <Calculator />
   <footer>
     <div class="attribution">
       Challenge by
