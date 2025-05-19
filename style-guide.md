@@ -91,9 +91,61 @@ The designs were created to the following widths:
 
 ## Typography
 
-### Body Copy
+### Text display
 
-- Font size (numbers): 32px
+#### Mobile
+
+- Font size: 40px
+- Font family: League Spartan
+- Font weight: 700
+- Letter spacing: -0.67px
+
+#### Desktop
+
+- Font size: 56px
+- Letter spacing: -0.93px
+
+### Text caption 1
+
+- Font size: 12px
+- Font family: League Spartan
+- Font weight: 700
+- Letter spacing: 0px
+
+### Text caption 2
+
+- Font size: 12px
+- Font family: League Spartan
+- Font weight: 700
+- Letter spacing: 1px
+
+### Text button 1
+
+#### Mobile
+
+- Font size: 32px
+- Font family: League Spartan
+- Font weight: 700
+- Letter spacing: -0.53px
+
+#### Desktop
+
+- Font size: 40px
+- Letter spacing: -0.67px
+
+### Text button 2
+
+#### Mobile
+
+- Font size: 20px
+- Font family: League Spartan
+- Font weight: 700
+- Letter spacing: -0.33px
+
+#### Desktop
+
+- Font size: 28px
+- Letter spacing: -0.47px
 
 ### Font
 
