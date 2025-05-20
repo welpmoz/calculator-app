@@ -27,8 +27,8 @@ The designs were created to the following widths:
 - Red (accent background): #d03f2f
 - Dark red (accent shadow): #93261a
 
-- Light grayish orange (key secondary background): #eae3dc
-- Grayish orange (key secondary shadow): #b4a597
+- Light grayish orange (key main background): #eae3dc
+- Grayish orange (key main shadow): #b4a597
 
 #### Text
 
